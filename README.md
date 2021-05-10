@@ -32,23 +32,9 @@ This is a Women’s Clothing E-Commerce dataset revolving around the reviews wri
 - visualise the sentiment by department / division (optional- Stretch)
 - visualise to validate the sentiment analysis
 - apply another sentiment analyser
-- identify and evaluate the differences between each approach![BarChart](https://user-images.githubusercontent.com/80153432/117714698-991f9180-b1d7-11eb-8560-f3569be6cde4.PNG)
-
-
-Findings:
-
-
-
-![image](https://user-images.githubusercontent.com/80153432/117714423-39c18180-b1d7-11eb-9695-eeb3a4b52634.png)
-
-
-![image](https://user-images.githubusercontent.com/80153432/117714572-6d041080-b1d7-11eb-80ac-3c6f93552123.png)
-
-
-
-
-
-Libraries Used.
+- identify and evaluate the differences between each approach
+- 
+# Libraries Used.
 
 pandas as pd
 textblob import TextBlob
