@@ -36,10 +36,16 @@ This is a Women’s Clothing E-Commerce dataset revolving around the reviews wri
 
 
 Findings:
+
+
+
 ![image](https://user-images.githubusercontent.com/80153432/117714423-39c18180-b1d7-11eb-9695-eeb3a4b52634.png)
 
 
 ![image](https://user-images.githubusercontent.com/80153432/117714572-6d041080-b1d7-11eb-80ac-3c6f93552123.png)
+
+
+
 
 
 Libraries Used.
